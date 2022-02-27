@@ -7,6 +7,6 @@ public class algo {
         if(a > b)
         a = b;
 
-        System.out.println("minimum is "+ a);
+        System.out.println("max is "+ a);
     }
 }
